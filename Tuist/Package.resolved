@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "descriptors",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/Descriptors",
+      "state" : {
+        "revision" : "f41ce2605a76c5d378fe8c5e8c5c98b544dfd108",
+        "version" : "0.2.3"
+      }
+    },
+    {
+      "identity" : "texture",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/Texture.git",
+      "state" : {
+        "revision" : "68df47f0d26522da76b06f22e9a97e4d4ab58dad",
+        "version" : "3.0.2"
+      }
+    },
+    {
+      "identity" : "textureswiftsupport",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/TextureSwiftSupport",
+      "state" : {
+        "revision" : "fb748d6a9d0a2dca0635227e1db0360fd26e0e24",
+        "version" : "3.20.1"
+      }
+    }
+  ],
+  "version" : 2
+}
